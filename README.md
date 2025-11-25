@@ -7,7 +7,8 @@ Rental Beira é uma aplicação web completa e moderna criada para facilitar a l
 Sem intermediários. Sem comissões exorbitantes. Apenas pessoas da Beira a alugar e a arrendar imóveis de forma simples, segura e transparente.
 Live demo: https://rentalbeira.vercel.app/ (em produção)
 Funcionalidades principais
-Para Arrendatários
+
+# Para Arrendatários
 
 Pesquisa avançada por bairro, preço, quartos, WC, tipo de imóvel
 Galeria de fotos com zoom e navegação
